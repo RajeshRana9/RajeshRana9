@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:2867B2&height=200&section=header&text=Rajesh%20Rana&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Bioinformatician%20%7C%20Data%20Scientist%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&descColor=a8c8f0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:2867B2&height=220&section=header&text=Rajesh%20Rana&fontSize=55&fontColor=ffffff&fontAlignY=40&fontFamily=Raleway&desc=Bioinformatician%20%7C%20Data%20Scientist%20%7C%20ML%20Enthusiast&descAlignY=60&descSize=20&descColor=a8c8f0&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2867B2&center=true&vCenter=true&width=600&lines=🧬+Bridging+Biology+and+Data+Science;🐍+Python+%7C+Machine+Learning+%7C+Bioinformatics;🔬+MSc+Bioinformatics+%40+OUAT;📊+IBM+%26+Google+Certified+Data+Analyst;🌐+Building+tools+for+genomics+%26+proteomics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=20&pause=1000&color=2867B2&center=true&vCenter=true&width=650&lines=🧬+Bridging+Biology+and+Data+Science;🐍+Python+%7C+Machine+Learning+%7C+Bioinformatics;🔬+MSc+Bioinformatics+%40+OUAT;📊+IBM+%26+Google+Certified+Data+Analyst;🌐+Building+tools+for+genomics+%26+proteomics)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,18 +10,15 @@
 
 ## 👨‍💻 About Me
 
-```python
-rajesh = {
-    "name"       : "Rajesh Rana",
-    "degree"     : "MSc. Bioinformatics — OUAT, Bhubaneswar",
-    "focus"      : ["Bioinformatics", "Data Science", "Machine Learning"],
-    "languages"  : ["Python", "R", "SQL", "Java"],
-    "currently"  : "Research Intern @ ICAR-NRCE (Metagenomics & ML)",
-    "building"   : "ESMFold Protein 3D Structure Predictor",
-    "open_to"    : "Research collaborations & Data Science roles",
-    "location"   : "Bhubaneswar, Odisha, India 🇮🇳"
-}
-```
+<table>
+<tr><td>🎓 <b>Degree</b></td><td>MSc. Bioinformatics — OUAT, Bhubaneswar</td></tr>
+<tr><td>🔭 <b>Focus</b></td><td>Bioinformatics · Data Science · Machine Learning</td></tr>
+<tr><td>💻 <b>Languages</b></td><td>Python · R · SQL · Java</td></tr>
+<tr><td>🔬 <b>Currently</b></td><td>Research Intern @ ICAR-NRCE (Metagenomics & ML)</td></tr>
+<tr><td>🚀 <b>Building</b></td><td>ESMFold Protein 3D Structure Predictor</td></tr>
+<tr><td>🤝 <b>Open to</b></td><td>Research collaborations & Data Science roles</td></tr>
+<tr><td>📍 <b>Location</b></td><td>Bhubaneswar, Odisha, India 🇮🇳</td></tr>
+</table>
 
 ---
 
@@ -82,7 +79,7 @@ End-to-end data science pipeline: data wrangling, statistical analysis, interact
 - Data extraction, preprocessing and model building
 
 **🌾 Young Professional — ICAR-NRRI** *(Jun 2021 – Aug 2023)*
-- Wet lab expertise: DNA/RNA isolation, PCR, RT-PCR, Gel Electrophoresis, Tissue culture, Cloning
+- Wet lab: DNA/RNA isolation, PCR, RT-PCR, Gel Electrophoresis, Tissue culture, Cloning
 
 ---
 
@@ -104,7 +101,7 @@ End-to-end data science pipeline: data wrangling, statistical analysis, interact
 | 🏆 IBM Data Engineering Professional Certification | Coursera | 2023 |
 | 🏆 Google Advanced Data Analytics Professional Certificate | Coursera | 2025 |
 | 🐍 The Python Mega Course | Udemy | 2020 |
-| 🧬 Advanced Techniques in Genomics & NGS Workshop | Bioinformatics.org | 2024 |
+| 🧬 Advanced Techniques in Genomics & NGS — Workshop | Bioinformatics.org | 2024 |
 
 ---
 
@@ -141,9 +138,9 @@ End-to-end data science pipeline: data wrangling, statistical analysis, interact
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2867B2,50:1a3a5c,100:0d1117&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2867B2,50:1a3a5c,100:0d1117&height=120&section=footer&fontFamily=Raleway" />
 
-*"Decoding life, one dataset at a time."* 
+*"Decoding life, one dataset at a time."* 🧬
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RajeshRana9&color=2867B2&style=flat-square)
 
