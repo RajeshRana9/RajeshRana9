@@ -1,16 +1,135 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**RajeshRana9/RajeshRana9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:2867B2&height=200&section=header&text=Rajesh%20Rana&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Bioinformatician%20%7C%20Data%20Scientist%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&descColor=a8c8f0" />
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2867B2&center=true&vCenter=true&width=600&lines=🧬+Bridging+Biology+and+Data+Science;🐍+Python+%7C+Machine+Learning+%7C+Bioinformatics;🔬+MSc+Bioinformatics+%40+OUAT;📊+IBM+%26+Google+Certified+Data+Analyst;🌐+Building+tools+for+genomics+%26+proteomics)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```python
+rajesh = {
+    "name"       : "Rajesh Rana",
+    "degree"     : "MSc. Bioinformatics — OUAT, Bhubaneswar",
+    "focus"      : ["Bioinformatics", "Data Science", "Machine Learning"],
+    "languages"  : ["Python", "R", "SQL", "Java"],
+    "currently"  : "Research Intern @ ICAR-NRCE (Metagenomics & ML)",
+    "building"   : "ESMFold Protein 3D Structure Predictor",
+    "open_to"    : "Research collaborations & Data Science roles",
+    "location"   : "Bhubaneswar, Odisha, India 🇮🇳"
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🤖 Machine Learning & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🧬 Bioinformatics Tools
+![BLAST](https://img.shields.io/badge/BLAST-005C84?style=for-the-badge&logoColor=white)
+![PyMOL](https://img.shields.io/badge/PyMOL-00A98F?style=for-the-badge&logoColor=white)
+![AUGUSTUS](https://img.shields.io/badge/AUGUSTUS-6A0DAD?style=for-the-badge&logoColor=white)
+![SPAdes](https://img.shields.io/badge/SPAdes-E63946?style=for-the-badge&logoColor=white)
+![GATK](https://img.shields.io/badge/GATK-2D6A4F?style=for-the-badge&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔬 [ProEdict — Protein 3D Structure Predictor](https://proedict.streamlit.app/)
+> Built with Python · Biopython · Streamlit · ESMFold API
+
+A web application that predicts the **3D structure of proteins** from amino acid sequences using Meta's ESMFold API. Input any protein sequence and get an interactive 3D structure visualization instantly.
+
+🔗 **Live App:** [proedict.streamlit.app](https://proedict.streamlit.app/)
+
+---
+
+### 📊 Interactive Visual & Prediction Analysis with ML
+> Built with Python · Scikit-Learn · Tableau · Pandas
+
+End-to-end data science project covering data wrangling, statistical analysis, interactive Tableau dashboards, and predictive ML models for data-driven decision-making.
+
+---
+
+## 📜 Certifications
+
+| Certificate | Platform | Year |
+|-------------|----------|------|
+| 🏆 IBM Data Engineering Professional Certification | Coursera | 2023 |
+| 🏆 Google Advanced Data Analytics Professional Certificate | Coursera | 2025 |
+| 🐍 The Python Mega Course | Udemy | 2020 |
+| 🧬 Advanced Techniques in Genomics & NGS Workshop | Bioinformatics.org | 2024 |
+
+---
+
+## 💼 Experience
+
+**🔬 Research Intern — ICAR-NRCE** *(Jun 2025 – Oct 2025)*
+- Metagenomic data analysis, microbial community profiling, taxonomic classification
+- ML-based biomarker detection and predictive modeling on biological datasets
+- Pipeline development for large-scale microbial genomics
+
+**📊 Data Science Intern — Unified Mentor** *(Jul 2024 – Sep 2024)*
+- Predictive modeling with Python and ML; dynamic Tableau dashboard development
+
+**🌾 Young Professional — ICAR-NRRI** *(Jun 2021 – Aug 2023)*
+- Wet lab expertise: DNA/RNA isolation, PCR, RT-PCR, Gel Electrophoresis, Tissue culture
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Rajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajeshRana9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2867B2&icon_color=2867B2&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshRana9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2867B2&text_color=c9d1d9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RajeshRana9&theme=tokyonight&hide_border=true&background=0d1117&ring=2867B2&fire=2867B2&currStreakLabel=2867B2)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeshrana)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rrana9882@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajeshRana9)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://proedict.streamlit.app/)
+
+📞 +91 7008893527 &nbsp;|&nbsp; 📍 Bhubaneswar, Odisha, India
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2867B2,50:1a3a5c,100:0d1117&height=100&section=footer" />
+
+*"Decoding life, one dataset at a time."* 🧬
+
+![Profile Views](https://komarev.com/ghpvc/?username=RajeshRana9&color=2867B2&style=flat-square)
+
+</div>
