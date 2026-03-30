@@ -48,24 +48,52 @@ rajesh = {
 ![AUGUSTUS](https://img.shields.io/badge/AUGUSTUS-6A0DAD?style=for-the-badge&logoColor=white)
 ![SPAdes](https://img.shields.io/badge/SPAdes-E63946?style=for-the-badge&logoColor=white)
 ![GATK](https://img.shields.io/badge/GATK-2D6A4F?style=for-the-badge&logoColor=white)
+![EMBOSS](https://img.shields.io/badge/EMBOSS-8B0000?style=for-the-badge&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔬 [ProEdict — Protein 3D Structure Predictor](https://proedict.streamlit.app/)
-> Built with Python · Biopython · Streamlit · ESMFold API
+### 🔬 ESMFold — Protein 3D Structure Predictor
+> Python · Biopython · Streamlit · ESMFold API
 
-A web application that predicts the **3D structure of proteins** from amino acid sequences using Meta's ESMFold API. Input any protein sequence and get an interactive 3D structure visualization instantly.
+A web application that predicts the **3D structure of proteins** from amino acid sequences using Meta's ESMFold API. Input any protein sequence and instantly get an interactive 3D structure visualization.
 
-🔗 **Live App:** [proedict.streamlit.app](https://proedict.streamlit.app/)
+[![Live App](https://img.shields.io/badge/🌐_Live_App-proedict.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://proedict.streamlit.app/)
 
 ---
 
 ### 📊 Interactive Visual & Prediction Analysis with ML
-> Built with Python · Scikit-Learn · Tableau · Pandas
+> Python · Scikit-Learn · Tableau · Pandas
 
-End-to-end data science project covering data wrangling, statistical analysis, interactive Tableau dashboards, and predictive ML models for data-driven decision-making.
+End-to-end data science pipeline: data wrangling, statistical analysis, interactive Tableau dashboards, and predictive ML models for data-driven decision-making.
+
+---
+
+## 💼 Experience
+
+**🔬 Research Intern — ICAR-NRCE** *(Jun 2025 – Oct 2025)*
+- Metagenomic data analysis, microbial community profiling & taxonomic classification
+- ML-based biomarker detection and predictive modeling on biological datasets
+- Pipeline development for large-scale microbial genomics projects
+
+**📊 Data Science Intern — Unified Mentor (Remote)** *(Jul 2024 – Sep 2024)*
+- Predictive modeling with Python and ML; dynamic Tableau dashboard development
+- Data extraction, preprocessing and model building
+
+**🌾 Young Professional — ICAR-NRRI** *(Jun 2021 – Aug 2023)*
+- Wet lab expertise: DNA/RNA isolation, PCR, RT-PCR, Gel Electrophoresis, Tissue culture, Cloning
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Score | Year |
+|--------|------------|-------|------|
+| MSc. Bioinformatics | OUAT, Bhubaneswar | 75% | 2025 |
+| BSc. Hons. Botany | Utkal University, Bhubaneswar | 80% | 2020 |
+| 12th Science | JKBK Govt College, Cuttack | 63% | 2016 |
+| 10th | C.R.R.I. High School, Cuttack | 53% | 2014 |
 
 ---
 
@@ -77,21 +105,6 @@ End-to-end data science project covering data wrangling, statistical analysis, i
 | 🏆 Google Advanced Data Analytics Professional Certificate | Coursera | 2025 |
 | 🐍 The Python Mega Course | Udemy | 2020 |
 | 🧬 Advanced Techniques in Genomics & NGS Workshop | Bioinformatics.org | 2024 |
-
----
-
-## 💼 Experience
-
-**🔬 Research Intern — ICAR-NRCE** *(Jun 2025 – Oct 2025)*
-- Metagenomic data analysis, microbial community profiling, taxonomic classification
-- ML-based biomarker detection and predictive modeling on biological datasets
-- Pipeline development for large-scale microbial genomics
-
-**📊 Data Science Intern — Unified Mentor** *(Jul 2024 – Sep 2024)*
-- Predictive modeling with Python and ML; dynamic Tableau dashboard development
-
-**🌾 Young Professional — ICAR-NRRI** *(Jun 2021 – Aug 2023)*
-- Wet lab expertise: DNA/RNA isolation, PCR, RT-PCR, Gel Electrophoresis, Tissue culture
 
 ---
 
@@ -113,12 +126,14 @@ End-to-end data science project covering data wrangling, statistical analysis, i
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeshrana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeshrana98)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rrana9882@gmail.com)
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Ranabioinfo)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Rajesh-Rana-7)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajeshRana9)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://proedict.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://proedict.streamlit.app/)
 
-📞 +91 7008893527 &nbsp;|&nbsp; 📍 Bhubaneswar, Odisha, India
+📍 Bhubaneswar, Odisha, India
 
 </div>
 
