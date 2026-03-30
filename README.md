@@ -143,7 +143,7 @@ End-to-end data science pipeline: data wrangling, statistical analysis, interact
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2867B2,50:1a3a5c,100:0d1117&height=100&section=footer" />
 
-*"Decoding life, one dataset at a time."* 🧬
+*"Decoding life, one dataset at a time."* 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RajeshRana9&color=2867B2&style=flat-square)
 
